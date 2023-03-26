@@ -1,0 +1,5 @@
+__pycache__/
+.idea/
+receiver_data/
+my_test/
+/configs/config
